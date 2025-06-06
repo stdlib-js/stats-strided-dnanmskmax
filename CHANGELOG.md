@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`855d4a6`](https://github.com/stdlib-js/stdlib/commit/855d4a65217504b0e032ae90df8fbdaf7b98e1f1) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`7013fd5`](https://github.com/stdlib-js/stdlib/commit/7013fd5dcd1c3ec9b39f545c32b31e52b94b3b85) - **feat:** add `stats/strided/dnanmskmax` _(by Gururaj Gurram)_
 
 </details>
